@@ -1,0 +1,11 @@
+(3) A. What is reverse-i-search in a Linux terminal?
+Ans- Besides using tab-autocompleting aggressively, I also use reverse-i-search all the time to search my command history. Activate reverse-i-search using Ctrl+r and then type in a query to find matches.
+
+B. How do you list out the hidden directories using Linux command line tool?
+Ans- The command lists the contents of the current directory.
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+Ans- CentOS is considered to be a more stable distribution compared to Ubuntu. Mainly because package updates are less frequent. This can also prove to be a disadvantage of CentOS. If you want the latest version of a certain application or software, you will have to install them manually.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+Ans- Yes, The main job of a web server is to display website content through storing, processing, and delivering webpages to users.
